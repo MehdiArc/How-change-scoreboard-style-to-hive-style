@@ -1,4 +1,4 @@
-# How change scoreboard style to hivestyle and change colors
+# How change scoreboard style to hive style and change colors
 
 
 
