@@ -3,8 +3,11 @@
 
 ``So lets start it :``
 
-• download this img .[Link]
+• download this img
+> <b>hive_scoreboard_entry.png</b><br><br>
 
+  ![](hive_scoreboard_entry.png)
+  
 • then install some pixy app ( we suggest some examples for u)
 
 • then look at this Video
