@@ -9,11 +9,12 @@
 
   ![](hive_scoreboard_entry.png)
   
-• then install some pixy app ( we suggest some examples for u)
+# then install some pixy app
+[Pixel Studio Click For Download](https://liteapks.com/download/pixel-studio-12715)
 
-• then look at this Video
-How change scoreboard style to hive style
+# then look at this Video !
 
-> .[...Click...](https://youtube.com/shorts/KaxH3ODWP0A?feature=share)
+> [...Click...](https://youtube.com/shorts/KaxH3ODWP0A?feature=share)
+
 
 - ``©`` @MehdiArc
