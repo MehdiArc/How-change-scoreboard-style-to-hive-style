@@ -1,9 +1,10 @@
-#How change scoreboard style to hivestyle and change colors
+# How change scoreboard style to hivestyle and change colors
+
 
 
 ``So lets start it :``
 
-• download this img
+• photo below is an example...
 > <b>hive_scoreboard_entry.png</b><br><br>
 
   ![](hive_scoreboard_entry.png)
