@@ -14,6 +14,6 @@
 • then look at this Video
 How change scoreboard style to hive style
 
-> !.[...Click...](https://youtube.com/shorts/KaxH3ODWP0A?feature=share)
+> .[...Click...](https://youtube.com/shorts/KaxH3ODWP0A?feature=share)
 
 - ``©`` @MehdiArc
