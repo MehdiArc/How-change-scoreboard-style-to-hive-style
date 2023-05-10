@@ -7,7 +7,7 @@
 
 • then install some pixy app ( we suggest some examples for u)
 
-• then look at this photo's
+• then look at this Video
 How change scoreboard style to hive style
 
 
