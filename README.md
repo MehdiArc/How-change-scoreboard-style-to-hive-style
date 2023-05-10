@@ -3,7 +3,7 @@
 
 ``So lets start it :``
 
-• download this img .[Link]. (https://github.com/MehdiArc/-Minecraft-Bedrock-The-Hive-Scmoreboard-MehdiArc-Color-Yellow-/blob/main/textures/ui/hive/hive_scoreboard_entry.png)
+• download this img .[Link]
 
 • then install some pixy app ( we suggest some examples for u)
 
