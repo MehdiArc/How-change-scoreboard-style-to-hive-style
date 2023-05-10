@@ -1,5 +1,5 @@
-# How change scoreboard style to hive style
-*How change scoreboard style to hive style and change Unicode textures from Pack and change colors*
+#How change scoreboard style to hivestyle and change colors
+
 
 ``So lets start it :``
 
